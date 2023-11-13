@@ -1,6 +1,7 @@
 package fruits;
 
 public class Banana {
+	int a;
 	int price;
 	String qty;
 
