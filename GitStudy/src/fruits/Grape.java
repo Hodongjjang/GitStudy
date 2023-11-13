@@ -10,4 +10,10 @@ public class Grape {
 	public String getQty() {
 		return qty;
 	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
+	public void setQty(String qty) {
+		this.qty = qty;
+	}
 }
